@@ -1,0 +1,6 @@
+C:\Users\conno\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Connor Bradley\RapidSearch\1.0\\RapidSearch.dll
+C:\Users\conno\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Connor Bradley\RapidSearch\1.0\\RapidSearch.pdb
+C:\Users\conno\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Connor Bradley\RapidSearch\1.0\\ICSharpCode.SharpZipLib.dll
+C:\Users\conno\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Connor Bradley\RapidSearch\1.0\\Lucene.Net.dll
+C:\Users\conno\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Connor Bradley\RapidSearch\1.0\\RapidSearch.pkgdef
+C:\Users\conno\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Connor Bradley\RapidSearch\1.0\\extension.vsixmanifest
